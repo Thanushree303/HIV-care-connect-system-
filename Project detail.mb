@@ -1,0 +1,100 @@
+# Project Title
+
+HIV Care Connect: Integrated Patient Care and Resource Management System
+
+# Problem Statement
+
+People living with HIV often face difficulties in accessing continuous healthcare services, managing medical records, tracking medication schedules, and finding nearby support resources. Hospitals and healthcare providers also face challenges in maintaining patient data, monitoring treatment adherence, scheduling appointments, and managing medical resources efficiently. There is a need for a centralized digital platform that connects patients, healthcare professionals, and support organizations to improve HIV care management and resource utilization.
+
+# Project Objectives
+
+1. Develop a centralized platform for HIV patient care management.
+2. Maintain secure electronic health records of patients.
+3. Enable appointment scheduling and medication reminders.
+4. Monitor patient treatment progress and adherence.
+5. Provide access to healthcare resources and support services.
+6. Facilitate communication between patients and healthcare providers.
+7. Generate reports and analytics for healthcare administrators.
+8. Ensure privacy and security of sensitive patient information.
+
+# Module List
+
+### 1. User Management Module
+
+* Patient Registration
+* Doctor Registration
+* Admin Management
+* Secure Login & Authentication
+
+### 2. Patient Health Record Module
+
+* Medical History Management
+* HIV Test Records
+* Treatment Details
+* Laboratory Reports Upload
+
+### 3. Appointment Management Module
+
+* Doctor Appointment Booking
+* Appointment Scheduling
+* Appointment Notifications
+
+### 4. Medication & Treatment Tracking Module
+
+* ART Medication Tracking
+* Medicine Reminder System
+* Treatment Adherence Monitoring
+
+### 5. Resource Management Module
+
+* Hospital Resource Tracking
+* Medicine Inventory Management
+* Blood Bank Information
+* Healthcare Facility Information
+
+### 6. Support & Communication Module
+
+* Patient-Doctor Messaging
+* Support Group Information
+* Emergency Contact Assistance
+
+### 7. Reports & Analytics Module
+
+* Patient Statistics
+* Treatment Progress Reports
+* Resource Utilization Reports
+* Dashboard Analytics
+
+### 8. Admin Module
+
+* User Management
+* System Monitoring
+* Data Backup & Security
+* Report Generation
+
+# Database Table List
+
+1. Users
+2. Patients
+3. Doctors
+4. Appointments
+5. Medical_Records
+6. HIV_Test_Results
+7. Prescriptions
+8. Medications
+9. Treatment_Plans
+10. Medication_Reminders
+11. Hospital_Resources
+12. Medicine_Inventory
+13. Blood_Bank
+14. Support_Services
+15. Messages
+16. Notifications
+17. Reports
+18. Audit_Logs
+19. Emergency_Contacts
+20. Feedback
+
+# Expected Outcome
+
+The system will improve HIV patient care by providing a secure and integrated platform for healthcare management, ensuring better treatment adherence, efficient resource allocation, improved communication, and enhanced healthcare service delivery.
